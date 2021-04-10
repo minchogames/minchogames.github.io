@@ -24,5 +24,4 @@ android.permission.READ_PHONE_STATE: 광고 앱에서 전화 상태를 확인합
 ## 개인정보 보호책임자
 
 민초 게임즈
-김동철(대표)
 연락처: minchogames21@gmail.com, +82-10-6810-0717
